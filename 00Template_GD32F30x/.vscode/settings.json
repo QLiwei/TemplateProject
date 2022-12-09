@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "def.h": "c",
+        "utils.h": "c",
+        "utils_def.h": "c",
+        "gd32f30x.h": "c",
+        "platform.h": "c",
+        "bsp_uart_fifo.h": "c",
+        "debug_usart.h": "c",
+        "main.h": "c",
+        "utils_dbg.h": "c",
+        "bsp_init.h": "c",
+        "systick.h": "c"
+    }
+}
